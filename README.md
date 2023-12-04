@@ -36,22 +36,22 @@ This document provides a guide on how to receive and decode GPS signals and obta
 
 ![Parameters](https://github.com/Rashee99/RTL-SDR-GPS-Decoding/assets/87062307/9fac8acd-a62d-40e5-bcc1-f1ff8041f810)
 
-## 6. Start the GNSS-SDRLIB:
+6. **Start the GNSS-SDRLIB:**
 
    - Press Start in the GNSS-SDRLIB GUI.
    - A series of command windows will open and close for a few seconds.
    - Afterward, several gnuplot graph windows will open; these can be ignored.
 
-## 7. Open RTK-NAVI:
+7. **Open RTK-NAVI:**
 
    - Navigate to the extracted RTK-NAVI folder and enter the bin directory.
    - Open the `rtlnavi.exe` file.
 
-## 8. Configure RTK-NAVI:
+8. **Configure RTK-NAVI:**
 
    - Click on the "I" button in the upper right region.
 
-## 9. Set Rover Configuration:
+9. **Set Rover Configuration:**
 
    - Place a check mark next to (1) Rover.
    - Change the "Type" to TCP Client and the "Format" to RTCM3.
