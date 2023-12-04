@@ -1,7 +1,5 @@
-# RTL-SDR-GPS-Decoding
+# RTL-SDR GPS Decoding and Plotting 
 GPS decoding using RTL-SDR 
-
-# GPS Decoding & Plotting
 
 ## 1. Introduction
 
